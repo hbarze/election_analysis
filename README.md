@@ -10,7 +10,7 @@ __, A Colorado Board of Elections employee has given you tasks to complete the e
 4. Calculate the percentage of votes each candidate won. 
 5. Determine the winner of the election based on popular vote. 
 
-##Resources:
+##Resources: 
 - Data source: election_results.csv; located in: /Users/henrybarze/Desktop/VDAB Projects/Modules/Module 3- PyPoll With Python/Module Files/election_analysis
 - Software: Python 3.10.1 64-bit, using VS Code Version: 1.63.2 (Universal)
 
